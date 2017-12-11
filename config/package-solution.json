@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "t-12-client-side-solution",
+    "id": "3622eb03-d86d-493a-bc55-00e8924002d1",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/t-12.sppkg"
+  }
+}
